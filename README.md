@@ -2,7 +2,7 @@
 
 ### Overview
 
-`tRNA_modifier_annotation_validation_UniProt_KEGG.py` evaluates the presence of selected tRNA-modification enzymes in a defined set of bacterial species using complementary information from KEGG and UniProtKB.
+`Conservation of tRNA modification genes using UniProtKB gene annotations.py` evaluates the presence of selected tRNA-modification enzymes in a defined set of bacterial species using complementary information from KEGG and UniProtKB.
 
 The script was designed to investigate cases in which a KEGG Orthology assignment is absent or unexpectedly rare in a taxonomic group. For each selected species, it:
 
